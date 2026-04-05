@@ -197,7 +197,7 @@ Accuracy vs Compression:
 - Samayraj Meena  
 - Sarthak Gupta  
 - Ayaan Abbas  
-
+- Arnav Agarwal
 ---
 
 ## License
