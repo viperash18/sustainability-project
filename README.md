@@ -189,17 +189,13 @@ Accuracy vs Compression:
 ## Contributors
 
 - Naveen Ola  
-- Pratik  
+- Pratik Beniwal 
 - Ashwary Rathore  
-- Ninad  
+- Ninad Tagade
 - Madhur Kumar  
 - Pradeep Meena  
 - Samayraj Meena  
 - Sarthak Gupta  
 - Ayaan Abbas  
 - Arnav Agarwal
----
 
-## License
-
-This project is for academic purposes.
